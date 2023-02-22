@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'PhotoCAD'
-copyright = '2022, Latitudeda.com'
-author = 'latitudeda.com'
+project = 'Summary'
+copyright = '2022, Carl_Zhao'
+author = 'Carl_Zhao'
 
 release = '1.5'
 version = '1.5.0'
