@@ -6,12 +6,6 @@ PhotoCAD产品手册资料
 
 .. toctree::
 
-    Tutorials/Quickstart
-    PICircuits/PICircuits
-    gpdk/QuickCreatePDK
-    WaveguideRouting/Summary
-    api/api
-    fnpcell/all
-    AboutUS
+    Research_Direction/Research_Direction
 
 
