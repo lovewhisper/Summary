@@ -1,14 +1,6 @@
 IC后端设计学习总结
 ================================
 
-.. toctree::
-
-    IC_Summary_DesignFlow
-    IC_Definition_Summary
-    IC_Instruction_Summary
-    IC_QuickOperate_Summary
-    IC_Question
-
 2022年12月26日开始学习 Innovus
 
 Innovus 学习笔记
