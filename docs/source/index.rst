@@ -7,7 +7,6 @@
 --------
 
 .. toctree::
-   :hidden:
 
     IC_Summary/IC_Summary
     Research_Direction/Research_Direction
