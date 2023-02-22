@@ -8,6 +8,8 @@
 .. toctree::
 
     IC_Back_Innovus
+    IC_Back_cortexA7core
+
 
 
 
