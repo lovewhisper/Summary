@@ -7,5 +7,6 @@ PhotoCAD产品手册资料
 .. toctree::
 
     Research_Direction/Research_Direction
+    IC_Front/IC_Front
 
 
