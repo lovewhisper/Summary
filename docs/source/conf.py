@@ -12,7 +12,6 @@ version = '0.0.0'
 # -- General configuration
 
 extensions = [
-    'multiproject',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
