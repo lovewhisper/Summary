@@ -2,16 +2,17 @@
 
 # -- Project information
 
-project = 'Carl_Zhao_Learning'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '学习笔记'
+copyright = '2022, Carl Zhao'
+author = 'Carl Zhao'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '0.0.0'
 
 # -- General configuration
 
 extensions = [
+    'multiproject',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
