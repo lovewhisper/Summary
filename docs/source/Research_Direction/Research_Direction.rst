@@ -2,6 +2,7 @@
 ================================
 
 .. toctree::
+   :hidden:
 
     PICircuits.rst
 
