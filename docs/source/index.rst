@@ -8,6 +8,5 @@
 
 .. toctree::
 
-    IC_Summary_Verilog/IC_Summary_Verilog
     Research_Direction/Research_Direction
 
