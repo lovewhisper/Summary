@@ -126,7 +126,7 @@ generate结构
     `else
     `endif
 
-第4章 用于验证的Verilog语法
+第四章 用于验证的Verilog语法
 --------------------------------
 initial 语句
 
