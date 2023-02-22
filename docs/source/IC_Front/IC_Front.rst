@@ -8,6 +8,8 @@
 .. toctree::
 
     IC_Front_1
+    IC_Front_2
+
 
 
 
