@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Summary'
-copyright = '2022, Carl_Zhao'
-author = 'Carl_Zhao'
+project = '学习总结'
+copyright = '2022, Carl Zhao'
+author = 'Carl Zhao'
 
 release = '1.5'
 version = '1.5.0'
